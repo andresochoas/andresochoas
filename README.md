@@ -1,6 +1,6 @@
 ## Andrés Ochoa
 
-> Full-Stack Engineer with +7yo of industry experience.
+> Full-Stack Engineer with over seven years (+7yo) of industry experience, primarily in the EdTech and eCommerce sectors.
 
 #### Projects
 Relevant side projects:
