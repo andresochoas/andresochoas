@@ -1,12 +1,13 @@
+#### Welcome 👋🏻
 ## Andrés Ochoa
 
 > Full-Stack Engineer with over seven years (+7yo) of industry experience, primarily in the EdTech and eCommerce sectors.
 
-#### Projects
+### Projects
 Relevant side projects:
 - 💬 [Curatio: SMS Junk Blocker by AI](https://curatio.seudrim.com) <sub>Swift & Go<sub>
 
-#### Technical Skills
+### Technical Skills
 My stack includes, but is not limited to:
 - Languages like **JavaScript**+**HTML**+**CSS**, and **TypeScript**.
 - Databases like **PostgreSQL**, **MySQL**, and **MongoDB**.
@@ -17,7 +18,7 @@ My stack includes, but is not limited to:
 > [!NOTE]
 > I firmly believe that tools are ephemeral, which is why I am consistently dedicated to mastering the theoretical underpinnings of computer science, encompassing programming, computer architecture, algorithms and data structures, operating systems, computer networking, databases, programming languages and compilers, and distributed systems.
 
-#### Contact
+### Contact
 You can reach me on (be kind):
 - 🗞️ [X aka. Twitter](https://x.com/ochoasandres)
 - 🌐 [My website](https://andresochoa.co)
@@ -25,7 +26,7 @@ You can reach me on (be kind):
 - 🦋 [Bluesky](https://bsky.app/profile/andresochoa.co)
 - 🐘 [Mastodon](https://mastodon.social/@andresochoa)
 
-#### Academy
+### Academy
 Systems Engineer - *Universidad de la Costa* <sub>(Jul 2013 - May 2020)</sub>
 
 [^1]: EC2, S3, VPC, CloudWatch, Lambda, Cognito, ECS, ECR, Fargate, ElasticCache, Route 53, CloudFront, SES, Steps Functions, EventBridge,
