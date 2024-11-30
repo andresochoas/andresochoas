@@ -10,7 +10,7 @@ My stack includes, but is not limited to:
 - Databases like **PostgreSQL**, **MySQL**, and **MongoDB**.
 - Frameworks like **React** (Next.js), **React Native** (Expo), and **Node.js** (GraphQL).
 - Dev(Sec)Ops vendors like **GitHub**, **HashiCorp**, **Vercel** and **Apollo**.
-- Cloud vendors like **AWS**[^1].
+- Cloud vendors like **AWS**[^1] and **Cloudflare**.
 
 > [!NOTE]
 > I firmly believe that tools are ephemeral, which is why I am consistently dedicated to mastering the theoretical underpinnings of computer science, encompassing programming, computer architecture, algorithms and data structures, operating systems, computer networking, databases, programming languages and compilers, and distributed systems.
