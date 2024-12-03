@@ -17,11 +17,9 @@ My stack includes, but is not limited to:
 
 ### Contact
 You can reach me on (be kind):
-- 🗞️ [X aka. Twitter](https://x.com/ochoasandres)
 - 🌐 [My website](https://andresochoa.co)
 - 📫 [hey@andresochoa.co](mailto:hey@andresochoa.co)
-- 🦋 [Bluesky](https://bsky.app/profile/andresochoa.co)
-- 🐘 [Mastodon](https://mastodon.social/@andresochoa)
+- 🗞️ [X aka. Twitter](https://x.com/ochoasandres)
 
 ### Academy
 Systems Engineer - *Universidad de la Costa* <sub>(Jul 2013 - May 2020)</sub>
