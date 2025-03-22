@@ -1,4 +1,4 @@
-> Senior Software Engineer with over seven years of industry experience, primarily in EdTech and more recently in HealthTech.
+> Senior Software Engineer with 7+ years of industry experience, primarily in EdTech and recently in HealthTech.
 
 ### Projects
 Relevant side projects:
