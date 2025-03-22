@@ -1,4 +1,4 @@
-> Full-Stack Engineer with over seven years (+7yo) of industry experience, primarily in the EdTech and eCommerce sectors.
+> Senior Software Engineer with over seven years of industry experience, primarily in EdTech and more recently in HealthTech.
 
 ### Projects
 Relevant side projects:
