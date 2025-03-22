@@ -2,7 +2,7 @@
 
 ### Projects
 Relevant side projects:
-- 💬 [Curatio: SMS Junk Blocker by AI](https://curatio.seudrim.com) <sub>Swift & Go<sub>
+- 💬 [Curatio: SMS Junk Blocker by AI](https://curatio.seudrim.com)
 
 ### Technical Skills
 My stack includes, but is not limited to:
